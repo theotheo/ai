@@ -1,0 +1,320 @@
+# Зарождение
+
+
+## 1943, A Logical Calculus of Ideas Immanent in Nervous Activity 
+- Мак-Каллок (нейрофизиолог), Питтс (математик)
+- "Логическое исчисление идей, относящихся к нервной активности"
+- on how neurons might work. 
+- modeled a simple neural network using electrical circuits.
+- The paper had only three references, and all of them are classical works in logic: Carnap’s Logical Syntax of Language [6], Russell’s and Whitehead’s Principa Mathematica [7] and the Hilbert and Ackermann Grundüge der Theoretischen Logik. 
+- The paper itself approached the problem of neural networks as a logical one, proceeding from definitions, over lemmas to theorems.
+- Питтс в 12 лет прочел "Принципы математики" и написал Расселу
+- Мак-Каллок работал с Винером
+
+// https://ru.wikipedia.org/wiki/Мак-Каллок,_Уоррен
+
+## 1948, Cybernetics: Or Control and Communication in the Animal and the Machine
+- It is the first public usage of the term "cybernetics" to refer to self-regulating mechanisms. 
+- The book laid the theoretical foundation for servomechanisms (whether electrical, mechanical or hydraulic), automatic navigation, analog computing, artificial intelligence, neuroscience, and reliable communications.
+
+Содержание (второго издания)
+
+. Newtonian and Bergsonian Time
+. Groups and Statistical Mechanics
+. Time Series, Information, and Communication
+. Feedback and Oscillation
+. Computing Machines and the Nervous System
+. Gestalt and Universals
+. Cybernetics and Psychopathology
+. Information, Language, and Society
+. On Learning and Self-Reproducing Machines
+. Brain Waves and Self-Organising Systems
+
+// https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine
+
+## 1949 Hebb Rule
+- Donald Hebb 
+- The Organization of Behavior
+- pointed out the fact that neural pathways are strengthened each time they are used, a concept fundamentally essential to the ways in which humans learn. If two nerves fire at the same time, he argued, the connection between them is enhanced.
+
+## 1949, клуб Ratio
+- 1949 to 1958 
+- small British informal dining club
+- young psychiatrists, psychologists, physiologists, mathematicians and engineers who met to discuss issues in cybernetics
+- The initial membership was W. Ross Ashby, Horace Barlow, John Bates, George Dawson, Thomas Gold, W. E. Hick, Victor Little, Donald MacKay, Turner McLardy, P. A. Merton, John Pringle, Harold Shipton, Donald Sholl, Eliot Slater, Albert Uttley, W. Grey Walter and John Hugh Westcott. Alan Turing joined after the first meeting with I. J. Good, Philip Woodward and William Rushton added soon after. Giles Brindley was also a member for a short period.
+- The club was the most intellectually powerful and influential cybernetics grouping in the UK, and many of its members went on to become extremely prominent scientists.
+
+// https://en.wikipedia.org/wiki/Ratio_Club
+
+## 1950, Тест Тьюринга
+- Алан Тьюринг 
+- Computing Machinery and Intelligence
+- "I propose to consider the question 'Can machines think?'"
+ 
+
+[.rigth]
+image::https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png[]
+
+
+// https://en.wikipedia.org/wiki/Turing_test
+
+## 1950, The Unreasonable Effectiveness of Mathematics in the Natural Sciences
+- Eugene Wigner (1902-1995)
+
+https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
+
+## 1954, IBM 704
+- the first mass-produced computer with floating-point arithmetic hardware
+- IBM sold 123 type 704 systems between 1955 and 1960
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/420px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg[]
+
+## 1954, Georgetown–IBM experiment
+- only six grammar rules 
+- 250 lexical items in its vocabulary (of stems and endings)
+- IBM 701 
+- Cold War
+- Over 60 Romanized Russian statements from a wide range of political, legal, mathematical, and scientific topics were entered into the machine by a computer operator who knew no Russian, and the resulting English translations appeared on a printer.
+
+|===
+|Russian (Romanized) | English translation
+
+|Mi pyeryedayem mislyi posryedstvom ryechyi.	
+|We transmit thoughts by means of speech.
+
+|Vyelyichyina ugla opryedyelyayetsya otnoshyenyiyem dlyini dugi k radyiusu.	
+|Magnitude of angle is determined by the relation of length of arc to radius.
+
+|Myezhdunarodnoye ponyimanyiye yavlyayetsya vazhnim faktorom v ryeshyenyiyi polyityichyeskix voprosov.	
+|International understanding constitutes an important factor in decision of political questions.
+
+|===
+
+// https://en.wikipedia.org/wiki/Georgetown–IBM_experiment
+
+## 1955, Logic Theorist
+- RAND Corporation 
+- Аллен Ньюэлл, Герберт Саймон and Cliff Shaw
+- the first program deliberately engineered to mimic the problem solving skills of a human being
+- "the first artificial intelligence program"
+-  prove 38 of the first 52 theorems in Principia Mathematica
+- одно из доказательств было даже более элегантным
+
+// https://en.wikipedia.org/wiki/Logic_Theorist
+
+
+## 1956, Дартмутский семинар
+- Дартмутской колледж
+- двухмесячный научный семинар по вопросам искусственного интеллекта
+- John McCarthy, Marvin Minsky, Julian Bigelow, Donald MacKay, Ray Solomonoff,
+John Holland, Claude Shannon, Nathanial Rochester, Oliver Selfridge, Allen Newell and Herbert Simon
+
+"Мы предлагаем исследование искусственного интеллекта сроком в 2 месяца с участием 10 человек летом 1956 года в Дартмутском колледже, Гановер, Нью-Гемпшир. Исследование основано на предположении, что всякий аспект обучения или любое другое свойство интеллекта может в принципе быть столь точно описано, что машина сможет его симулировать. Мы попытаемся понять, как обучить машины использовать естественные языки, формировать абстракции и концепции, решать задачи, сейчас подвластные только людям, и улучшать самих себя. Мы считаем, что существенное продвижение в одной или более из этих проблем вполне возможно, если специально подобранная группа учёных будет работать над этим в течение лета"
+-- https://ru.wikipedia.org/wiki/Дартмутский_семинар
+
+
+## 1956, Artificial intelligence 
+- Появление термина
+
+## 1958 LISP 
+- "LISt Processor"
+- pioneered many ideas in computer science, including tree data structures, automatic storage management, dynamic typing, conditionals, higher-order functions, recursion, the self-hosting compiler, and the read–eval–print loop
+
+image::2019-09-13-12-23-58.png[]
+
+// http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+
+
+
+## 1959 General Problem Solver
+- более мощного инструмента, чем Logical Theorist
+- программа могла не только доказывать утверждения, но и играть в шахматы и ханойские башни. 
+- Программа раскладывала проблему на более простые составляющие, решение которых возможно достичь. 
+- 1972 «Решение проблем человеком», Ньюэлл и Саймон обобщили результаты этих исследований, а также рассказали об исследованиях, объектами которых были люди, решавшие математические и логические головоломки
+- it could not solve any real-world problems because search was easily lost in the combinatorial explosion. 
+- демонстрировал результаты, которые не могли нейросети
+- доказательство теорем считалось чуть ли не вершиной интеллекта, в отличии от распознавания образов
+
+// https://en.wikipedia.org/wiki/General_Problem_Solver
+
+## 1958 Perceptron 
+- Cornell Aeronautical Laboratory
+- Фрэнк Розенблатт, 1928-1971,  американский учёный в области психологии, нейрофизиологии
+- первоначально в 1957 как программа для  IBM 704
+- первый "нейрокомпьютер"
+- 1962 - книга Principles of Neurodynamic
+
+image::https://upload.wikimedia.org/wikipedia/ru/8/8b/Rosenblatt.jpg[]
+image::https://upload.wikimedia.org/wikipedia/en/5/52/Mark_I_perceptron.jpeg[]
+
+// https://ru.wikipedia.org/wiki/Розенблатт,_Фрэнк
+
+
+## 1959 ADALINE/MADALINE
+- Bernard Widrow and Marcian Hoff
+- ADALINE (ADAptive LInear NEuron), MADALINE (Many/Multiple ADALINE)
+- It is based on the McCulloch–Pitts neuron.
+- ADALINE was developed to recognize binary patterns so that if it was reading streaming bits from a phone line, it could predict the next bit. 
+- нейрокомпьютер
+- MADALINE was the first neural network applied to a real world problem, using an adaptive filter that eliminates echoes on phone lines. While the system is as ancient as air traffic control systems, like air traffic control systems, it is still in commercial use.
+
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Adaline_flow_chart.gif/375px-Adaline_flow_chart.gif[]
+image::http://scask.ru/archive/arch.php?path=../htm/stu.scask/book_ns/files.book&file=ns_10.files/image2.gif[]
+
+// https://en.wikipedia.org/wiki/ADALINE
+// http://scask.ru/p_book_ns.php?id=10
+
+## 1959, Verbal Behavior
+- Noam Chomsky (1928-)
+- "The fact that all normal children acquire essentially comparable grammars of great complexity with remarkable rapidity suggests that human beings are somehow specially designed to do this, with data-handling or "hypothesis-formulating" ability of unknown character and complexity."
+- долой бихевиоризм
+- когнитивная революция
+- cognitive science: anthropology, computer science, linguistic, neuroscience, philosophy and psychology.
+
+## 1959, Neural Basis of Visual Perception
+- Hubel and Wiesel
+
+image::https://i2.wp.com/knowingneurons.com/wp-content/uploads/2014/10/hubel-and-wiesel_650.jpg?resize=650%2C550&ssl=1[]
+
+https://knowingneurons.com/2014/10/29/hubel-and-wiesel-the-neural-basis-of-visual-perception/
+// TODO: дополнить
+
+## 1962, Widrow & Hoff developed a learning procedure
+examines the value before the weight adjusts it (i.e. 0 or 1) according to the rule: Weight Change = (Pre-Weight line value) * (Error / (Number of Inputs)). It is based on the idea that while one active perceptron may have a big error, one can adjust the weight values to distribute it across the network, or at least to adjacent perceptrons. Applying this rule still results in an error if the line before the weight is 0, although this will eventually correct itself. If the error is conserved so that all of it is distributed to all of the weights than the error is eliminated.
+
+## 1963, SAIL
+- Stanford Artificial Intelligence Laboratory
+- Джон Маккарти сооснователь
+- The current director is Professor Chris Manning
+
+
+## 1965-, Dendral
+- "Dendritic Algorithm"
+- Stanford
+- Edward Feigenbaum, Bruce G. Buchanan, Joshua Lederberg, and Carl Djerassi, along with a team of highly creative research associates and students
+- Its primary aim was to study hypothesis formation and discovery in science. 
+- идентификации органических соединений с помощью анализа масс-спектрограмм.
+- LISP
+- многие производные системы, including MYCIN, MOLGEN, PROSPECTOR, XCON, and STEAMER.
+- написано более 20 научных работ по результатам работы системы DENDRAL с реальными задачами.  
+- сейчас существуют много программ для той же задачи, но их не называют ИИ
+
+// https://en.wikipedia.org/wiki/Dendral
+// https://ru.wikipedia.org/wiki/Dendral
+
+## 1966, Eliza
+-  Joseph Weizenbaum
+- MIT AI Lab
+- pattern matching
+- роджерианский терапевт
+- один из первых чатботов
+
+image::https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jpg[]
+
+
+// https://en.wikipedia.org/wiki/ELIZA
+
+## 1966, ALPAC report
+- Automatic Language Processing Advisory Committee
+- established by the United States government in order to evaluate the progress in computational linguistics in general and machine translation in particular
+- gained notoriety for being very skeptical of research done in machine translation so far, and emphasizing the need for basic research in computational linguistics
+-  this eventually caused the U.S. government to reduce its funding of the topic dramatically
+
+
+// TODO: https://en.wikipedia.org/wiki/ALPAC
+
+## 1966, failure of machine translation
+- ‘the spirit was willing but theflesh was weak’
+- ‘the vodka was good, but the meat was rotten’.
+
+
+## 1969, Perceptrons
+- Perceptrons: an introduction to computational geometry
+- Marvin Minsky and Seymour Papert
+- XOR-problem
+
+// https://en.wikipedia.org/wiki/Perceptrons_(book)
+
+## 1969, IJCAI
+- International Joint Conference on Artificial Intelligence (IJCAI)
+
+// https://en.wikipedia.org/wiki/International_Joint_Conference_on_Artificial_Intelligence
+
+
+## 1973, Lighthill report
+-  James Lighthill (1924-1988), British applied mathematician
+- Artificial Intelligence: A General Survey
+- British Science Research Council
+- закрыл все, кроме 3 департаментов: Edinburgh, Sussex and Essex
+
+// https://en.wikipedia.org/wiki/Lighthill_report
+
+## 1974, backpropagation
+- Paul Werbos, an economist by degree, discovered backpropagation, a way to propagate the error back through the hidden (middle) layer
+// TODO: https://en.wikipedia.org/wiki/Paul_Werbos
+
+## 1974-1980 AI Winter 
+"Despite the later success of the neural network, traditional von Neumann architecture took over the computing scene, and neural research was left behind. Ironically, John von Neumann himself suggested the imitation of neural functions by using telegraph relays or vacuum tubes."
+-- quote
+
+"In the same time period, a paper was written that suggested there could not be an extension from the single layered neural network to a multiple layered neural network. In addition, many people in the field were using a learning function that was fundamentally flawed because it was not differentiable across the entire line. As a result, research and funding went drastically down."
+-- quote
+
+"A quiet darkness fell across the neural networks, lasting many years. One might wonder what was happening in the USSR at this time, and the short answer is that cybernetics, as neural networks were still called in the USSR in this period, was considered a bourgeois pseudoscience."
+-- From logic
+
+## 1972, PROLOG
+- French scientist Alain Colmerauer invents the logic programming language
+
+## 1972, Kohonen and Anderson developed a similar network independently of one another
+"They both used matrix mathematics to describe their ideas but did not realize that what they were doing was creating an array of analog ADALINE circuits. The neurons are supposed to activate a set of outputs instead of just one."
+
+## 1975 The first multilayered network 
+- unsupervised network
+
+## начало 70-х MYCIN 
+- Stanford
+- Lisp 
+- разрабатывалась 5-6 лет
+- относительно простой алгоритм вывода (backward reasoning)
+- около 600 правил
+- программа задавала пользователю (врачу) длинный ряд простых «да/нет» или текстовых вопросов
+-  система предоставляла список подозреваемых бактерий, отсортированный по вероятности, указывала доверительный интервал для вероятностей диагнозов и их обоснование
+- Research conducted at the Stanford Medical School found MYCIN received an acceptability rating of 65% on treatment plan from a panel of eight independent specialists, which was comparable to the 42.5% to 62.5% rating of five faculty members.
+
+.Проблемы
+- этические вопросы
+- MYCIN была автономной системой, требующей от пользователя набора всей необходимой информации. Программа запускалась на сервере с разделением времени, доступному по раннему Интернету (ARPANet)
+- сеанс работы с MYCIN мог легко занять 30 минут и более
+- "knowledge acquisition bottleneck" -- трудно "извлечь" знания из опыта людей-экспертов для формирования базы правил
+
+
+
+// https://ru.wikipedia.org/wiki/MYCIN
+
+
+## 1982, Hopfield Network
+- a form of recurrent artificial neural network 
+- Hopfield nets serve as content-addressable ("associative") memory systems with binary threshold nodes. 
+
+## 1982 5 поколения комьпютеров
+- a joint US-Japan conference on Cooperative/Competitive Neural Networks. 
+- Japan announced a new Fifth Generation effort on neural networks, and US papers generated worry that the US could be left behind in the field. 
+- As a result, there was more funding and thus more research in the field.
+
+
+## 1984- AI Winter 2
+Research that concentrates on developing neural networks is relatively slow. Due to the limitations of processors, neural networks take weeks to learn. Some companies are trying to create what is called a "silicon compiler" to generate a specific type of integrated circuit that is optimized for the application of neural networks. Digital, analog, and optical chips are the different types of chips being developed. One might immediately discount analog signals as a thing of the past. However neurons in the brain actually work more like analog signals than digital signals. While digital signals have two distinct states (1 or 0, on or off), analog signals vary between minimum and maximum values. It may be awhile, though, before optical chips can be used in commercial applications.
+
+// TODO: https://towardsdatascience.com/history-of-the-second-ai-winter-406f18789d45
+
+
+## 1986 Back-propagation
+"In 1986, with multiple layered neural networks in the news, the problem was how to extend the Widrow-Hoff rule to multiple layers. Three independent groups of researchers, one of which included David Rumelhart, a former member of Stanford's psychology department, came up with similar ideas which are now called back propagation networks because it distributes pattern recognition errors throughout the network. Hybrid networks used just two layers, these back-propagation networks use many. The result is that back-propagation networks are "slow learners," needing possibly thousands of iterations to learn."
+-- quote
+
+## 1986, NeurIPS
+- Conference on Neural Information Processing Systems
+- раньше звался NIPS
+- NeurIPS was designed as a complementary open interdisciplinary meeting for researchers exploring biological and artificial Neural Networks.

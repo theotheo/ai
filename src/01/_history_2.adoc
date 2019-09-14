@@ -1,0 +1,157 @@
+# Развитие
+
+## 1979 Neocognitron
+- Kunihiko Fukushima
+- multilayered artificial neural network
+- inspired by the model proposed by Hubel & Wiesel
+- The neocognitron consists of multiple types of cells, the most important of which are called S-cells and C-cells.
+
+video::Qil4kmvm2Sw[youtube]
+
+// https://en.wikipedia.org/wiki/Neocognitron
+
+## 1979, AAAI
+- American Association for Artificial Intelligence
+- теперь Association for the Advancement of Artificial Intelligence
+
+https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence
+
+## 1985, CLIPS
+- C Language Integrated Production System
+-  The original name of the project was NASA's AI Language (NAIL)
+- CLIPS incorporates a complete object-oriented language for writing expert systems. 
+- COOL combines the programming paradigms of procedural, object oriented and logical (theorem proving) languages.
+
+## 1986, RNN
+- Michael I. Jordan
+- Attractor dynamics and parallelism in a connectionist sequential machine
+
+
+## 1987, collapse of the LISP machine market
+- cheaper desktop PCs soon could run Lisp programs even faster than Lisp machines, with no use of special purpose hardware.
+
+## 1986, Navlab 1
+- Carnegie Mellon University
+- Chevrolet panel van. 
+- The van had 5 racks of computer hardware, including 3 Sun workstations, video hardware and GPS receiver, and a Warp supercomputer.
+- The vehicle suffered from software limitations and was not fully functional until the late 80s, when it achieved its top speed of 20 mph (32 km/h).
+
+video::ntIczNQKfjQ[youtube, 200, 200]
+
+
+
+## 1989 LeNet
+- Lecun Net
+- Ян Лекун
+- 60 тысяч параметров
+
+[.right]
+image::https://miro.medium.com/max/800/0*MU7G1aH1jw-6eFiD.png[]
+
+[.right ]
+image::http://yann.lecun.com/exdb/lenet/gifs/asamples.gif[]
+
+## 1990, Премия Лёбнера
+// https://en.wikipedia.org/wiki/Loebner_Prize
+
+
+## 1990, SRNN
+- the simple recurrent neural network (Elman network)
+- Elman Jeff (1948-2018)
+- "Finding structure in time"
+- The paper was ground-breaking for many cognitive scientists and psycholinguists, since it was the first to completely break away from a prior commitment to specific linguistic units (e.g. phonemes or words), and to explore the vision that these units might be emergent consequences of a learning process operating over the latent structure in the speech stream.
+
+// https://web.stanford.edu/group/pdplab/pdphandbook/handbookch8.html
+
+
+
+## 1992, РАИИ
+- Российская ассоциация искусственного интеллекта
+
+[small]
+"
+К настоящему времени в ассоциацию входит 236 человек, из них 48 докторов и 69 кандидатов наук из 45 регионов России. Ассоциация провела шесть школ по проблемам искусственного интеллекта, участвовала в организации 14 симпозиумов, в том числе провела два международных симпозиума "Восток-Запад " (Москва 1993г., 1995г.), три международных симпозиума по технологии программирования (Переславль-Залесский 1994г., Болгария 1996г.), два международных семинара по прикладной семиотике (Будапешт 1996г., Смоленице 1997г.). Ассоциация участвовала в организации и проведении четырех международных конференций, в частности, Европейских конференций по искусственному интеллекту (Вена 1994г., Будапешт 1996г., Берлин 2000г.).
+"
+-- http://raai.org/about/about.shtml
+
+
+"В России Ассоциацией проведено тринадцать национальных конференций по искусственному интеллекту (Пеpеславль-Залесский 1988г., Минск 1990г., Тверь 1992г., Рыбинск 1994г., Казань 1996г., Пущино 1998г., Пеpеславль-Залесский 2000г., Коломна 2002г., Тверь 2004г., Обнинск 2006г., Дубна 2008г., Тверь 2010г., Белгород 2012г.)."
+
+-- http://raai.org/about/about.shtml
+
+## 1992, ECAI
+- European Conference on Artificial Intelligence
+
+
+## 1993, RoboCup
+- Worldwide RoboCup initiative to build soccer-playing autonomous robots
+
+## 1995, SVM
+
+This leads us to the 1990s and beyond. The early 1990s were largely uneventful,
+as the general support of the AI community shifted towards support vector machines (SVM). These machine learning algorithms are mathematically well founded, as opposed to neural networks which were interesting from a philosophical standpoint,
+and mainly developed by psychologists and cognitive scientists. To the larger AI community, which still had a lot of the GOFAI drive for mathematical precision,
+they were uninteresting, and SVMs seemed to produce better results as well
+
+## 1995, AIMA
+- Artificial Intelligence: A Modern Approach
+- Stuart J. Russell и Peter Norvig.
+- учебник
+
+image::http://people.eecs.berkeley.edu/~russell/aima-cover-591KB.gif[]
+
+## 1997, Video Rewrite
+// TODO: https://dl.acm.org/citation.cfm?doid=258734.258880 
+
+## 1997, Deep Blue
+- IBM’s chess computer Deep Blue defeats the chess world champion Gary Kasparov.
+
+## 1997 LSTM
+- Sepp Hochreiter, Jürgen Schmidhuber.
+- популярная архитектура
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_LSTM_cell.png/1024px-The_LSTM_cell.png[]
+
+## 1999, GeForce 256
+- первый GeForce
+- "the world's first 'GPU', or Graphics Processing Unit"
+- "a single-chip processor with integrated transform, lighting, triangle setup/clipping, and rendering engines that is capable of processing a minimum of 10 million polygons per second."
+
+// image::https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KL_NVIDIA_Geforce_256.jpg/800px-KL_NVIDIA_Geforce_256.jpg[]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/VisionTek_GeForce_256.jpg/1280px-VisionTek_GeForce_256.jpg[]
+
+// https://en.wikipedia.org/wiki/GeForce_256
+
+## 2001, Neural language models
+
+image::http://ruder.io/content/images/2018/09/lm_bengio_2003.png[]
+
+## 2001, MIT OpenCourseWare
+"initiative of the Massachusetts Institute of Technology (MIT) to publish all of the educational materials from its undergraduate- and graduate-level courses online, freely and openly available to anyone, anywhere."
+-- https://en.wikipedia.org/wiki/MIT_OpenCourseWare
+
+## 2004, DARPA Grand Challenge
+- Defense Advanced Research Projects Agency
+- ни одна машина не доехала
+
+## 2005, Stanley
+
+Stanley is an autonomous car created by Stanford University's Stanford Racing Team in cooperation with the Volkswagen Electronics Research Laboratory (ERL). It won the 2005 DARPA Grand Challenge,[1] earning the Stanford Racing Team the 2 million dollar prize.
+
+image::https://www.wired.com/wp-content/uploads/archive/images/article/full/2007/10/darpa_urban_challenge_630px.jpg[]
+
+## 2005, ImageNet Challenge
+- The ImageNet project is a large visual database designed for use in visual object recognition software research.
+- ImageNet Large Scale Visual Recognition Challenge (ILSVRC)
+
+## 2005, Future of Humanity Institute
+- Future of Humanity Institute (FHI)
+- University of Oxford
+- Nick Bostrom is director
+- Purpose: "Research big-picture questions about humanity and its prospects"
+
+## 2006 DBN
+- Deep Belief Network
+- Hinton, Osindero, Teh
+- significantly better results on the MNIST dataset
+- deep learning?

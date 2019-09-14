@@ -1,0 +1,11 @@
+# SOTA
+
+## POC
+https://paperswithcode.com
+
+## EFF
+https://www.eff.org/ai/metrics
+
+## Rusbase
+
+https://rb.ru/ai/

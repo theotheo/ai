@@ -1,0 +1,326 @@
+# Deep Learning
+
+
+
+## 2007, НТИ
+- Национа́льная технологи́ческая инициати́ва
+- государственная программа мер по поддержке развития в России перспективных отраслей, которые в течение следующих 20 лет могут стать основой мировой экономики
+
+## Список центров компетенций НТИ
+
+|===
+|Сквозная технология | Победитель конкурсного отбора | Наименование Центра
+
+|Искусственный интеллект	
+|МФТИ	
+|Центр Национальной технологической инициативы по направлению «Искусственный интеллект»
+
+| Технологии хранения и анализа больших данных
+| МГУ имени М.В. Ломоносова	
+| Центр технологий хранения и анализа больших данных
+
+| Технологии машинного обучения и когнитивные технологии
+| 	ИТМО
+|Национальный центр когнитивных разработок
+
+|===
+
+https://ru.wikipedia.org/wiki/Национальная_технологическая_инициатива
+ 
+## 2007, Theano
+-  Montreal Institute for Learning Algorithms 
+
+// https://en.wikipedia.org/wiki/Theano_(software)
+
+## 2008, Multi-task learning для нейросетей
+- A unified architecture for natural language processing: Deep neural networks with multitask learning
+-  the look-up tables (or word embedding matrices) are shared between two models trained on different tasks
+-  It won the test-of-time award at ICML 2018
+- Multi-task learning is now used across a wide range of NLP tasks and leveraging existing or "artificial" tasks has become a useful tool in the NLP repertoire. 
+
+image::http://ruder.io/content/images/2018/09/collobert_icml2008.png[]
+
+## 2009, AIMA 3rd edition
+- "the most popular artificial intelligence textbook in the world"
+- 7 вузов России: Altai State Univ., Kazan State Univ., Lobachevsky State Univ. of Nizhni Novgorod , Moscow State Industrial Univ. , Moscow State Univ., Statistics and Informatics, St. Petersburg State Univ. of Info. Tech., V.A. Steklov Inst. of Math, Russian Academy of Sciences, St. Petersburg 
+
+[%autofit]
+----
+- Part I: Artificial Intelligence - Sets the stage for the following sections by viewing AI systems as intelligent agents that can decide what actions to take and when to take them.
+- Part II: Problem-solving - Focuses on methods for deciding what action to take when needing to think several steps ahead such as playing a game of chess.
+- Part III: Knowledge, reasoning, and planning - Discusses ways to represent knowledge about the intelligent agents' environment and how to reason logically with that knowledge.
+- Part IV: Uncertain knowledge and reasoning - This section is analogous to Parts III, but deals with reasoning and decision-making in the presence of uncertainty in the environment.
+- Part V: Learning - Describes ways for generating knowledge required by the decision-making components and introduces a new component: the artificial neural network
+- Part VI: Communicating, perceiving, and acting - Concentrates on ways an intelligent agent can perceive its environment whether by touch	or vision.
+- Part VII: Conclusions	- Considers the past and future of AI by discussing what AI really is and why it has succeeded to some degree. Also discusses the views of those philosophers who believe that AI can never succeed.
+----
+
+image::2019-09-13-14-25-15.png[]
+http://aima.cs.berkeley.edu/adoptions.html
+
+
+## 2009, The Unreasonable Effectiveness of Data
+- Fernando Pereira, Peter Norvig, Alon Halevy
+- Google 
+ 
+"Our point was that if there are hundreds of millions of people generating data of some kind (like html tables), it is probably a better strategy to use that data, even if it is noisy, rather than try to put together a coalition of a few researchers who will generate perfect non-noisy data." 
+-- https://thenoisychannel.com/2009/03/31/the-unreasonable-effectiveness-of-data#comment-2716
+
+https://ai.google/research/pubs/pub35179/   
+
+
+## 2009, Google self-driving
+- First Google self-driving car drives on the California freeway.
+
+## 2011, Google Brain
+- deep learning artificial intelligence research team at Google.
+- part-time research collaboration between Google Fellow Jeff Dean, Google Researcher Greg Corrado, and Stanford University professor Andrew Ng
+- 2013 наняли Хинтона
+
+// https://ru.wikipedia.org/wiki/Национальная_технологическая_инициатива
+
+## 2011, ml-class.com
+- Andrew Ng, Daphne Koller
+- 100,000 students
+- из него появились Coursera
+
+// image::https://web.archive.org/web/20110912002115im_/http://ml-class.org/img/banner.jpg[]
+image::2019-09-13-15-45-27.png[]
+
+## 2011, ai-class.com
+- Introduction to Artificial Intelligence
+- Stanford
+- Peter Norvig and Sebastian Thrun
+- 160,000 students signed up, from more than 190 countries, with a median age of around 30
+- из него появилось Udacity
+
+[.right]
+image::2019-09-14-02-01-21.png[]
+image::https://i.guim.co.uk/img/static/sys-images/Admin/BkFill/Default_image_group/2012/2/2/1328202623513/Computer-scientists-Peter-007.jpg?width=620&quality=85&auto=format&fit=max&s=db6c7fa7f8fa3882314b28320fc1c54e[]
+
+## 2011, Watson
+IBM’s “Watson” beats two human champions on the television game show “Jeopardy!”
+
+image::https://cbsnews3.cbsistatic.com/hub/i/r/2011/02/17/c8a7ec73-a642-11e2-a3f0-029118418759/thumbnail/620x465/a106dd6de4b9fc18a8e903f1bd30acc6/AP110114053298.jpg[]
+
+## 2012 AlexNet
+- Alex Krizhevsky,  Ilya Sutskever, Geoffrey Hinton
+- GPU
+- 7 слоев
+- 60 миллионов
+
+image::https://miro.medium.com/max/932/1*wzflNwJw9QkjWWvTosXhNw.png[]
+
+## 2012, AlexNet ImageNet
+image::http://www.programmersought.com/images/528/5d6b1e9d70bf0d3b5212353ebd239698.JPEG[]
+
+## 2013, Word2Vec
+- Томаш Миколов (1982-), Google
+- дистрибутивная семантика
+- быстрый алгоритм
+- удачный выбор дефолтный гиперпараметров
+- "семантическая арифметика"
+
+image::http://jalammar.github.io/images/word2vec/king-analogy-viz.png[]
+
+## 2013, DNNresearch was acquired by Google 
+- 2012
+- DNNresearch, a young startup founded by professor Geoffrey Hinton and two of his grad students, Alex Krizhevsky and Ilya Sutskever.
+
+https://www.crunchbase.com/organization/dnnresearch
+https://techcrunch.com/2013/06/12/how-googles-acquisition-of-dnnresearch-allowed-it-to-build-its-impressive-google-photo-search-in-6-months/
+
+// TODO:
+
+## 2013, AI2
+- Allen Institute for Artificial Intelligence
+- founded by late Microsoft co-founder Paul Allen.
+
+. проекты:
+- Semantic Scholar
+- AllenNLP
+- MOSAIC: The Mosaic project is focused on defining and building common sense knowledge and reasoning for AI systems.
+// https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence
+
+## 2014, Nvidia Jetson
+- Nvidia Jetson TK1
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nvidia_Jetson_TK1_-_Full_Board_%2814672953894%29.png/330px-Nvidia_Jetson_TK1_-_Full_Board_%2814672953894%29.png[]
+
+## 2014, 
+Research big-picture questions about humanity and its prospects
+
+## 2014, GAN
+- Generative Adversarial Networks
+- Goodfellow, Ian; Pouget-Abadie, Jean; Mirza, Mehdi; Xu, Bing; Warde-Farley, David; Ozair, Sherjil; Courville, Aaron; Bengio, Yoshua
+
+image::https://skymind.ai/images/wiki/GANs.png[]
+
+## 2015, The Unreasonable Effectiveness of Recurrent Neural Networks
+- Andrey Karpathy
+- char-based 
+- генерация Шекспира, кода и т.п.
+- интерпретация
+
+image::http://karpathy.github.io/assets/rnn/pane1.png[]
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+
+## 2015, ResNet
+- Residual Neural Network (ResNet) 
+- ILSVRC 2015
+- Kaiming He и компания
+- “skip connections” and features heavy batch normalization. 
+- 101-слой
+
+image::https://www.pfmjournal.org/upload/thumbnails/pfm-2018-00030f1.jpg[]
+
+## 2015, Attention
+- Bahdanau
+
+image::http://ruder.io/content/images/2018/09/attention_bahdanau_iclr2015.png[]
+
+// TODO: добавить
+
+## 2015, Keras
+- François Chollet
+- Python
+- 2017 часть Tensorflow
+
+## 2015, заметный рост NIPS
+
+[.right]
+image::https://signalprocessingsociety.org/uploads/images/SLTC-Newsletter/NipsGrowth.png[]
+
+[.right]
+image::https://pbs.twimg.com/media/Cv-qC4TVIAEZ9Tp.jpg[]
+
+https://signalprocessingsociety.org/get-involved/speech-and-language-processing/newsletter/brief-review-nips-2015
+
+
+## 2015, Neural Style Transfer
+- Gatys et al
+- A Neural Algorithm of Artistic Style
+
+// TODO: https://en.wikipedia.org/wiki/Neural_Style_Transfer
+
+## 2015, Tensorflow
+
+
+## 2015, OpenAI
+- основатели Elon Musk и Sam Altman
+- 1 млрд $
+- в 2019 году Майкрософт еще 1 млрд $
+
+## 2015, Deep learning
+- Йошуа Бенджио, Джеффри Хинтон и Ян Лекун 
+- статья в Nature
+image::2019-09-13-13-49-53.png[]
+
+https://www.nature.com/articles/nature14539
+
+## 2016 PyTorch
+- Facebook
+- на базе Torch
+
+## 2016, OpenAI Gym
+
+## 2016, Deep Learning Book
+- Ian Goodfellow and Yoshua Bengio and Aaron Courville
+- https://www.deeplearningbook.org
+
+
+## 2016, TPU
+- tensor processing unit 
+- AI accelerator application-specific integrated circuit
+- Google
+- 2017 версия 2
+- 2018 версия 3
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tensor_Processing_Unit_3.0.jpg/330px-Tensor_Processing_Unit_3.0.jpg[]
+
+## 2016, AlphaGo
+"The Go program AlphaGo by Google DeepMind beats the European
+champion 5:0 in January and Korean Lee Sedol, one of the world’s best Go players,
+4:1 in March. Deep learning techniques applied to pattern recognition, as well as
+reinforcement learning and Monte Carlo tree search lead to this success."
+-- quote
+
+[.stretch]
+## 2016, Эмпиризм в deep learning?
+"By working strictly on methods that you can fully analyze theoretically, you confine yourself to using excessively naive methods.
+Physicists don’t work like that. They don’t get to choose the complexity of the systems they study: the physical world is what it is. To them, complex systems are more interesting. For example, a lot of interesting mathematics and theoretical physics methods were developed in the context of studying spin glasses and other “disordered” systems. Physicists couldn’t simply choose to not study these systems because they were too complicated."
+-- https://www.quora.com/Are-you-concerned-about-research-in-NN-and-Deep-Learning-being-too-much-results-driven-without-backing-with-a-strong-theoretical-explaination/answer/Yann-LeCun
+
+"I do think that there is a need for better theoretical understanding of deep learning."
+-- https://www.quora.com/Are-you-concerned-about-research-in-NN-and-Deep-Learning-being-too-much-results-driven-without-backing-with-a-strong-theoretical-explaination/answer/Yann-LeCun
+
+"How important is the interpretability of your taxi driver?"
+-- https://www.quora.com/How-important-is-interpretability-for-a-model-in-Machine-Learning/answer/Yann-LeCun
+
+"
+Contrary to what some people think, I believe that we have already a good basic understanding of fundamentals about why deep learning works, e.g.,
+But of course, much more theory is needed! Very often we are in a situation where we do not understand the results of an experiment, for example." 
+-- https://www.quora.com/How-far-along-are-we-in-the-understanding-of-why-deep-learning-works/answer/Yoshua-Bengio
+
+## 2016, Partnership on AI
+- Partnership on Artificial Intelligence to Benefit People and Society
+- индустриальный консорциум
+- "establishing best practices for artificial intelligence systems and to educate the public about AI"
+-  Amazon, Facebook, Google, DeepMind, Microsoft, and IBM
+- Apple присоединились в 2017
+
+## 2017, ONNX
+- Open Neural Network Exchange
+- Facebook и Microsoft
+- затем IBM, Huawei, Intel, AMD, ARM and Qualcomm 
+
+// https://en.wikipedia.org/wiki/Open_Neural_Network_Exchange
+
+## 2017, iPavlov
+"Согласно паспорту проекта, с 2017 по 2020 год iPavlov должен получить 505,6 млн рублей, в том числе 350,3 млн в качестве субсидий из федерального бюджета по линии Национальной технологической инициативы и 155,3 млн от частных инвесторов."
+-- https://vc.ru/finance/22554-sber-ipavlov
+
+"«МФТИ — один из наших ключевых партнёров в сфере образования и создания инновационных технологий, — отметил Герман Греф. — Результатом проекта iPavlov станут новые бизнес-приложения, которые будут интегрированы в работу Сбербанка и выведут обслуживание наших клиентов на новый уровень. Кроме того, в ходе проекта Сбербанк и МФТИ проведут масштабные междисциплинарные исследования, которые помогут создать экосистему мирового уровня в области машинного обучения и искусственного интеллекта»."
+-- http://rusneuro.net/novosti/v-mfti-startuet-proekt-ipavlov-dorognoi-karty-neironet-po-razrabotke-novyh-tehnologii-masinnogo-intellekta
+
+## 2017, Synthesizing Obama
+- The Face2Face program, published in 2016, modifies video footage of a person's face to depict them mimicking the facial expressions of another person in real time
+// TODO: https://en.wikipedia.org/wiki/Deepfake
+
+## 2018, Edge TPU
+image::https://lh3.googleusercontent.com/hau9Cug0FnHUkeuyjdQK9fN4vvsIreHfwSpLTpxnfWWQkafxMfVTE5UN81bdzn3sepLxmZiPJKCzhbaQGZd5o8oV3srlyEf4Ab9XVg=w1000-rw[]
+
+## 2018, Pretrained Language Models
+image::http://ruder.io/content/images/2018/09/elmo_peters_2018.png[]
+
+//TODO: http://ruder.io/a-review-of-the-recent-history-of-nlp/
+
+## 2019, OpenAI Five
+- Dota
+- OpenAI Five defeated OG, the reigning world champions of the game at the time, 2:0 in a live exhibition match in San Francisco
+- OpenAI only learned a heavily simplified version of Dota, including only 17 out of over 100 heroes and excluding certain items as well as game mechanics.
+
+## 2019, GPT-2
+- neural fake news
+- десятки тысяч $
+
+## 2019, Премия Тьюринга
+- Йошуа Бенджио, Джеффри Хинтон и Ян Лекун 
+
+https://amturing.acm.org
+
+// https://www.kommersant.ru/doc/3925539
+
+## 2019, Национальной стратегии развития технологий ИИ
+
+"По словам главы государства, уже через пять лет мировой рынок продуктов с использованием искусственного интеллекта вырастет почти в 17 раз и составит порядка 1,5 трлн рублей."
+-- https://iz.ru/886709/2019-06-07/v-rossii-poiavitsia-natcstrategiia-v-oblasti-iskusstvennogo-intellekta
+
+## 2019, Human Compatible: Artificial Intelligence and the Problem of Control
+
+image::https://images-na.ssl-images-amazon.com/images/I/41r9M-CBgrL._SX329_BO1,204,203,200_.jpg[]
+
+## Timeline 1
+image::histoty-fukushima.png[]
