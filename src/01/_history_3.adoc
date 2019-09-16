@@ -142,13 +142,30 @@ https://techcrunch.com/2013/06/12/how-googles-acquisition-of-dnnresearch-allowed
 - MOSAIC: The Mosaic project is focused on defining and building common sense knowledge and reasoning for AI systems.
 // https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence
 
+## 2013, FAIR
+- Facebook AI Research
+- Yann Le Cun
+
+
+https://engineering.fb.com/ai-research/fair-fifth-anniversary/
+https://ai.facebook.com/blog
+
+
+++++
+<iframe data-src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vAi57mzsV9Ieqx_CJkjN3x0RtISQ-hz63ajOttrhzLQ&amp;font=Default&amp;lang=en&amp;start_at_end=false&amp;hash_bookmark=true" width="50%" height="1000" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+++++
+
 ## 2014, Nvidia Jetson
 - Nvidia Jetson TK1
 
+[.stretch]
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nvidia_Jetson_TK1_-_Full_Board_%2814672953894%29.png/330px-Nvidia_Jetson_TK1_-_Full_Board_%2814672953894%29.png[]
 
-## 2014, 
-Research big-picture questions about humanity and its prospects
+## 2014,  Future of Humanity Institute
+- > Research big-picture questions about humanity and its prospects
+- директор {person} Nick Bostrom
+
+https://en.wikipedia.org/wiki/Future_of_Humanity_Institute
 
 ## 2014, GAN
 - Generative Adversarial Networks
@@ -190,14 +207,14 @@ image::http://ruder.io/content/images/2018/09/attention_bahdanau_iclr2015.png[]
 
 ## 2015, заметный рост NIPS
 
-[.right]
-image::https://signalprocessingsociety.org/uploads/images/SLTC-Newsletter/NipsGrowth.png[]
-
-[.right]
-image::https://pbs.twimg.com/media/Cv-qC4TVIAEZ9Tp.jpg[]
-
+[cols="50a,50a"]
+|===
+|
+image:https://signalprocessingsociety.org/uploads/images/SLTC-Newsletter/NipsGrowth.png[]
 https://signalprocessingsociety.org/get-involved/speech-and-language-processing/newsletter/brief-review-nips-2015
-
+|
+image:https://pbs.twimg.com/media/Cv-qC4TVIAEZ9Tp.jpg[width=1200]
+|===
 
 ## 2015, Neural Style Transfer
 - Gatys et al
@@ -206,6 +223,7 @@ https://signalprocessingsociety.org/get-involved/speech-and-language-processing/
 // TODO: https://en.wikipedia.org/wiki/Neural_Style_Transfer
 
 ## 2015, Tensorflow
+- Google Brain Team
 
 
 ## 2015, OpenAI
@@ -213,12 +231,16 @@ https://signalprocessingsociety.org/get-involved/speech-and-language-processing/
 - 1 млрд $
 - в 2019 году Майкрософт еще 1 млрд $
 
-## 2015, Deep learning
+## 2015, Deep learning 
 - Йошуа Бенджио, Джеффри Хинтон и Ян Лекун 
 - статья в Nature
+
 image::2019-09-13-13-49-53.png[]
 
 https://www.nature.com/articles/nature14539
+
+## Backpropaganda
+image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[]
 
 ## 2016 PyTorch
 - Facebook
@@ -276,12 +298,13 @@ But of course, much more theory is needed! Very often we are in a situation wher
 [cols={2col}]
 |===
 |
-image:https://4.bp.blogspot.com/-9jVHM1Pcsx8/WWUJxfwGTgI/AAAAAAAAB3k/-yLJh8EQQCUXqobeEfob49ekBBjLqQ0JgCLcBGAs/s400/image1.png[]
+image:https://3.bp.blogspot.com/-szaDUQXe_ak/WWUJ85ysh5I/AAAAAAAAB3o/joW-ItRpiCU6o_FyB-CMpCQ1XU4QFaI3QCEwYBhgL/s400/image2.png[]
 |
 - Chen Sun, Abhinav Shrivastava, Saurabh Singh, Abhinav Gupta
-- 
+- Google
 |===
 
+image::https://4.bp.blogspot.com/-9jVHM1Pcsx8/WWUJxfwGTgI/AAAAAAAAB3k/-yLJh8EQQCUXqobeEfob49ekBBjLqQ0JgCLcBGAs/s400/image1.png[]
 ## 2017, ONNX
 - Open Neural Network Exchange
 - Facebook и Microsoft
@@ -332,6 +355,21 @@ https://amturing.acm.org
 ## 2019, Human Compatible: Artificial Intelligence and the Problem of Control
 
 image::https://images-na.ssl-images-amazon.com/images/I/41r9M-CBgrL._SX329_BO1,204,203,200_.jpg[]
+
+## 2019, "Superhuman AI for multiplayer poker"
+- Plubiris
+- Facebook, CMU
+
+> Pluribus is the first AI bot capable of beating human experts in six-player no-limit Hold’em, the most widely played poker format in the world. This is the first time an AI bot has beaten top human players in a complex game with more than two players or two teams.
+-- https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+
+> We tested Pluribus against professional poker players, including two winners of the World Series of Poker Main Event. Pluribus won decisively.
+-- https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/
+
+> When pitted against five elite professional poker players, or with five copies of Pluribus playing against one professional, the computer performed significantly better than humans over the course of 10,000 hands of poker.
+-- https://science.sciencemag.org/content/365/6456/885
+
+image::https://scontent-arn2-1.xx.fbcdn.net/v/t39.2365-6/67064888_389656325232510_2098761968490905600_n.gif?_nc_cat=102&_nc_oc=AQki2YWJ-bQ8oZjZN7-mPmGnm3VKFSHmbN5UQNeFAOs8ba1GKKPpDoinXUAVhgpZOjU&_nc_ht=scontent-arn2-1.xx&oh=61b7d30bfd6100d8e27f506ee6f1b0d7&oe=5DF6123A[]
 
 ## Timeline 1
 image::histoty-fukushima.png[]

@@ -65,6 +65,7 @@ image::https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.p
 -- https://fregimus.livejournal.com/152385.html
 
 https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
+http://ogs-seminar.narod.ru/materials/effectiveness_of_mathematics.pdf
 
 ## 1951, «бумажная машина Тьюринга»
 
@@ -270,7 +271,7 @@ image:https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jpg
 "Успех «Каиссы» может быть объяснён многими заложенными в неё новшествами. В частности, программа имела дебютную книгу на 10000 ходов, использовала новый алгоритм отсечения позиций и впервые использовала побитовое представление доски. Также она могла производить анализ во время хода соперника, использовала эвристику нулевого хода и сложные алгоритмы для управления временем. В дальнейшем все эти новшества стали широко использоваться в шахматных программах. Программа была написана на ассемблере, работала на британской ЭВМ ICL System 4/70 (64-разрядный процессор, память — 24000 байт, быстродействие — 900 тыс. инструкций в секунду) и анализировала 200 позиций в секунду."
 -- https://ru.wikipedia.org/wiki/Каисса_(программа)
 
-
+// https://www.chessprogramming.org/Stanford-ITEP_Match
 // https://ru.wikipedia.org/wiki/Чемпионат_мира_по_шахматам_среди_компьютерных_программ
 // https://ru.wikipedia.org/wiki/Каисса_(программа)
 

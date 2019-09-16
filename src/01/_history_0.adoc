@@ -158,6 +158,8 @@ image::https://upload.wikimedia.org/wikipedia/commons/2/25/Turk-engraving5.jpg[]
 - {person} Джордж Буль
 - Boole systematically presented logic as a system of formal rules which turned out to be a major milestone in the reshaping of logic as a formal science. Quickly after, formal logic developed, and today it is considered a native branch of both philosophy and mathematics, with abundant applications to computer science
 
+// TODO: проблемы Гильберта
+
 ## 1910-1913, Principia Mathematica 
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Russell%2C_Whitehead_-_Principia_Mathematica_to_56.jpg/255px-Russell%2C_Whitehead_-_Principia_Mathematica_to_56.jpg[]
 - {person} Рассел и {person} Уайтхед
