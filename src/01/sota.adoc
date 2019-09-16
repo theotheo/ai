@@ -1,7 +1,8 @@
 # SOTA
 
+[%notitle,background-iframe="http://paperswithcode.com"]
 ## POC
-https://paperswithcode.com
+
 
 ## EFF
 https://www.eff.org/ai/metrics

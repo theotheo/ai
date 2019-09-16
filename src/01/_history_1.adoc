@@ -59,9 +59,14 @@ image::https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.p
 // https://en.wikipedia.org/wiki/Turing_test
 
 ## 1950, The Unreasonable Effectiveness of Mathematics in the Natural Sciences
-- Eugene Wigner (1902-1995)
+- Юджин Вигнер (1902-1995), физик, нобелевский лауреат
+
+" важно подчеркнуть, что математическая формулировка результатов наблюдений физика, часто довольно грубых, приводит в неправдоподобно многочисленных случаях к удивительно точному описанию большого класса явлений. Это обстоятельство показывает, что математический язык следует рассматривать как нечто большее, чем просто язык, на котором мы должны говорить; оно показывает, что математика на самом деле является правильным (подходящим) языком…"
+-- https://fregimus.livejournal.com/152385.html
 
 https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
+
+## 1951, «бумажная машина Тьюринга»
 
 ## 1954, IBM 704
 - the first mass-produced computer with floating-point arithmetic hardware
@@ -179,6 +184,7 @@ image::https://i2.wp.com/knowingneurons.com/wp-content/uploads/2014/10/hubel-and
 
 https://knowingneurons.com/2014/10/29/hubel-and-wiesel-the-neural-basis-of-visual-perception/
 // TODO: дополнить
+// https://en.wikipedia.org/wiki/David_H._Hubel
 
 ## 1962, Widrow & Hoff developed a learning procedure
 examines the value before the weight adjusts it (i.e. 0 or 1) according to the rule: Weight Change = (Pre-Weight line value) * (Error / (Number of Inputs)). It is based on the idea that while one active perceptron may have a big error, one can adjust the weight values to distribute it across the network, or at least to adjacent perceptrons. Applying this rule still results in an error if the line before the weight is 0, although this will eventually correct itself. If the error is conserved so that all of it is distributed to all of the weights than the error is eliminated.
@@ -204,13 +210,19 @@ examines the value before the weight adjusts it (i.e. 0 or 1) according to the r
 // https://ru.wikipedia.org/wiki/Dendral
 
 ## 1966, Eliza
+
+[cols={2col}]
+|===
+|
+image:https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jpg[width=600]
+
+|
 -  Joseph Weizenbaum
 - MIT AI Lab
 - pattern matching
 - роджерианский терапевт
 - один из первых чатботов
-
-image::https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jpg[]
+|===
 
 
 // https://en.wikipedia.org/wiki/ELIZA
@@ -249,6 +261,18 @@ image::https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jp
 - закрыл все, кроме 3 департаментов: Edinburgh, Sussex and Essex
 
 // https://en.wikipedia.org/wiki/Lighthill_report
+
+## 1974, Чемпионат мира по шахматам среди компьютерных программ
+- первый чемпионат
+- «Каисса» выиграла все четыре партии и стала первым чемпионом мира среди шахматных программ, обогнав программы «Chess 4», «Chaos» и «Ribbit», набравших по 3 очка[8]. В первенстве приняли участие 13 машин из 8 стран мира, передававшие свои ходы в зал проведения первенства оператору по телефону
+- создана 1971, Институт проблем управления АН СССР, Георгием Адельсон-Вельским, Владимиром Арлазаровым, и Михаилом Донским 
+
+"Успех «Каиссы» может быть объяснён многими заложенными в неё новшествами. В частности, программа имела дебютную книгу на 10000 ходов, использовала новый алгоритм отсечения позиций и впервые использовала побитовое представление доски. Также она могла производить анализ во время хода соперника, использовала эвристику нулевого хода и сложные алгоритмы для управления временем. В дальнейшем все эти новшества стали широко использоваться в шахматных программах. Программа была написана на ассемблере, работала на британской ЭВМ ICL System 4/70 (64-разрядный процессор, память — 24000 байт, быстродействие — 900 тыс. инструкций в секунду) и анализировала 200 позиций в секунду."
+-- https://ru.wikipedia.org/wiki/Каисса_(программа)
+
+
+// https://ru.wikipedia.org/wiki/Чемпионат_мира_по_шахматам_среди_компьютерных_программ
+// https://ru.wikipedia.org/wiki/Каисса_(программа)
 
 ## 1974, backpropagation
 - Paul Werbos, an economist by degree, discovered backpropagation, a way to propagate the error back through the hidden (middle) layer
@@ -292,6 +316,22 @@ image::https://upload.wikimedia.org/wikipedia/commons/4/4e/ELIZA_conversation.jp
 
 
 // https://ru.wikipedia.org/wiki/MYCIN
+
+## 1979 Neocognitron
+- Kunihiko Fukushima
+- multilayered artificial neural network
+- inspired by the model proposed by Hubel & Wiesel
+- The neocognitron consists of multiple types of cells, the most important of which are called S-cells and C-cells.
+
+video::Qil4kmvm2Sw[youtube]
+
+// https://en.wikipedia.org/wiki/Neocognitron
+
+## 1979, AAAI
+- American Association for Artificial Intelligence
+- теперь Association for the Advancement of Artificial Intelligence
+
+https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence
 
 
 ## 1982, Hopfield Network

@@ -1,8 +1,8 @@
 
-include::_history_0.adoc[+1]
+include::_history_0.adoc[]
 
-include::_history_1.adoc[+1]
+include::_history_1.adoc[]
 
-include::_history_2.adoc[+1]
+include::_history_2.adoc[]
 
-include::_history_3.adoc[+1]
+include::_history_3.adoc[]

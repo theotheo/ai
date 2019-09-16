@@ -271,6 +271,17 @@ But of course, much more theory is needed! Very often we are in a situation wher
 -  Amazon, Facebook, Google, DeepMind, Microsoft, and IBM
 - Apple присоединились в 2017
 
+## 2017, Revisiting the Unreasonable Effectiveness of Data
+
+[cols={2col}]
+|===
+|
+image:https://4.bp.blogspot.com/-9jVHM1Pcsx8/WWUJxfwGTgI/AAAAAAAAB3k/-yLJh8EQQCUXqobeEfob49ekBBjLqQ0JgCLcBGAs/s400/image1.png[]
+|
+- Chen Sun, Abhinav Shrivastava, Saurabh Singh, Abhinav Gupta
+- 
+|===
+
 ## 2017, ONNX
 - Open Neural Network Exchange
 - Facebook и Microsoft

@@ -1,20 +1,5 @@
 # Развитие
 
-## 1979 Neocognitron
-- Kunihiko Fukushima
-- multilayered artificial neural network
-- inspired by the model proposed by Hubel & Wiesel
-- The neocognitron consists of multiple types of cells, the most important of which are called S-cells and C-cells.
-
-video::Qil4kmvm2Sw[youtube]
-
-// https://en.wikipedia.org/wiki/Neocognitron
-
-## 1979, AAAI
-- American Association for Artificial Intelligence
-- теперь Association for the Advancement of Artificial Intelligence
-
-https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence
 
 ## 1985, CLIPS
 - C Language Integrated Production System
@@ -36,7 +21,7 @@ https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Inte
 - The van had 5 racks of computer hardware, including 3 Sun workstations, video hardware and GPS receiver, and a Warp supercomputer.
 - The vehicle suffered from software limitations and was not fully functional until the late 80s, when it achieved its top speed of 20 mph (32 km/h).
 
-video::ntIczNQKfjQ[youtube, 200, 200]
+video::ntIczNQKfjQ[youtube, 1200]
 
 
 
@@ -104,7 +89,17 @@ image::http://people.eecs.berkeley.edu/~russell/aima-cover-591KB.gif[]
 // TODO: https://dl.acm.org/citation.cfm?doid=258734.258880 
 
 ## 1997, Deep Blue
-- IBM’s chess computer Deep Blue defeats the chess world champion Gary Kasparov.
+[cols={2col}]
+|===
+| 
+image:https://upload.wikimedia.org/wikipedia/commons/b/be/Deep_Blue.jpg[]
+
+| - IBM’s chess computer Deep Blue defeats the chess world champion Gary Kasparov.
+
+|===
+
+"Вместо того чтобы играть в шахматы как человек — демонстрируя человеческую интуицию и нестандартное творческое мышление, он играет в шахматы как машина: оценивает до 200 млн возможных ходов в секунду и побеждает благодаря грубой вычислительной силе."
+-- https://www.alpinabook.ru/blog/garri-kasparov/, Гарри Каспаров
 
 ## 1997 LSTM
 - Sepp Hochreiter, Jürgen Schmidhuber.

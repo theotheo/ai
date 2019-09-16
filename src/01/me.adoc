@@ -1,28 +1,30 @@
-## Обо мне
+# Обо мне
 
-Белялов Ильдар
+[.lead]#Белялов Ильдар#
 
-### Инженер-программист
-image::mirea.jpg[size=cover]
+## Инженер-программист
+[.stretch]
+image::mirea.jpg[]
 
-### R&D-инженер (недавнее место работы)
+## R&D-инженер (недавнее место работы)
 image::epoch8-back.png[size=cover]
 
-### Организатор мастерской Deep Learning 
+## Организатор мастерской Deep Learning 
 
-### ЛШ 18
-image::lsh18.jpg[]
+|===
+| 2018 | 2019
 
-
-### ЛШ 19
-image::lsh19.jpg[]
+| image:lsh18.jpg[]
+| image:lsh19.jpg[]
+|===
 https://www.facebook.com/commanderduck/videos/10221014010799488
 
 
-### Научный руководитель
+## Научный руководитель
+[.stretch]
 image::vkr1.jpg[]
 
-### Контакты
+## Контакты
 
 [NOTE]
 ====
@@ -33,7 +35,7 @@ image::vkr1.jpg[]
 
 ====
 
-### О курсе
+## О курсе
 
 [%step]
 * Провожу курс первый раз
