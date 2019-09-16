@@ -48,6 +48,11 @@ image::http://yann.lecun.com/exdb/lenet/gifs/asamples.gif[]
 
 // https://web.stanford.edu/group/pdplab/pdphandbook/handbookch8.html
 
+## 1991, Terminator 1
+> CPU is a neural net processor
+
+video::xcgVztdMrX4[youtube]
+
 
 
 ## 1992, РАИИ

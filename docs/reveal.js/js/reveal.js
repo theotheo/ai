@@ -3823,7 +3823,7 @@
 				}
 				// Iframes
 				else if( backgroundIframe && options.excludeIframes !== true ) {
-					var iframe = document.createElement( 'iframe' );
+					var iframe = document.createElement( 'iframe', { is : 'x-frame-bypass' });
 					iframe.setAttribute( 'allowfullscreen', '' );
 					iframe.setAttribute( 'mozallowfullscreen', '' );
 					iframe.setAttribute( 'webkitallowfullscreen', '' );

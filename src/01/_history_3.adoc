@@ -277,6 +277,10 @@ image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[width=1000]
 image::2019-09-16-19-18-27.png[]
 https://www.semanticscholar.org/paper/Deep-Learning-LeCun-Bengio/a4cec122a08216fe8a3bc19b22e78fbaea096256
 
+## !
+[.stretch]
+image::https://pic2.zhimg.com/v2-bac6f7ba4126c408529465fe7d813c51_r.jpg[]
+
 ## 2016 PyTorch
 - Facebook
 - на базе Torch
@@ -309,6 +313,9 @@ https://www.deeplearningbook.org
 - Google
 - 2017 версия 2
 - 2018 версия 3
+
+
+https://cloud.google.com/blog/products/gcp/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu
 
 [.stretch]
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tensor_Processing_Unit_3.0.jpg/330px-Tensor_Processing_Unit_3.0.jpg[]

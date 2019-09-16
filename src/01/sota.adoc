@@ -1,12 +1,10 @@
 # SOTA
 
-[%notitle,background-iframe="http://paperswithcode.com"]
+[%notitle,background-iframe="https://paperswithcode.com"]
 ## POC
 
-
+[%notitle,background-iframe="https://www.eff.org/ai/metrics"]
 ## EFF
-https://www.eff.org/ai/metrics
 
+[%notitle,background-iframe="https://rb.ru/ai/"]
 ## Rusbase
-
-https://rb.ru/ai/

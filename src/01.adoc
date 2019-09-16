@@ -34,6 +34,11 @@ ifndef::imagesdir[:imagesdir: images]
 
 # Некоторая история искусственного интеллекта
 
+++++
+ <script type="module" src="https://unpkg.com/x-frame-bypass"></script>
+
+++++
+
 :leveloffset: +1
 
 include::{src}/me.adoc[]

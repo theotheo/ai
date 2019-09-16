@@ -171,6 +171,14 @@ image::http://scask.ru/archive/arch.php?path=../htm/stu.scask/book_ns/files.book
 // https://en.wikipedia.org/wiki/ADALINE
 // http://scask.ru/p_book_ns.php?id=10
 
+## 1959, «Что говорит глаз лягушки мозгу лягушки»
+> Глаз говорит с мозгом на языке, который уже обладает чертами высокой организации и интерпретации.
+-- https://newtonew.com/hero/history-neuroscience-pitts
+
+https://neuromajor.ucr.edu/courses/WhatTheFrogsEyeTellsTheFrogsBrain.pdf
+
+// TODO: добавить
+
 ## 1959, Verbal Behavior
 - Noam Chomsky (1928-)
 - "The fact that all normal children acquire essentially comparable grammars of great complexity with remarkable rapidity suggests that human beings are somehow specially designed to do this, with data-handling or "hypothesis-formulating" ability of unknown character and complexity."
