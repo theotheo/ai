@@ -339,11 +339,27 @@ https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Inte
 - a form of recurrent artificial neural network 
 - Hopfield nets serve as content-addressable ("associative") memory systems with binary threshold nodes. 
 
-## 1982 5 поколения комьпютеров
+## 1982, 5 поколения комьпютеров
 - a joint US-Japan conference on Cooperative/Competitive Neural Networks. 
 - Japan announced a new Fifth Generation effort on neural networks, and US papers generated worry that the US could be left behind in the field. 
 - As a result, there was more funding and thus more research in the field.
 
+## 1982, EurAI
+- European Association for Artificial Intelligence
+- (formerly ECCAI) 
+
+****
+The objectives of the Association, which is non-profit making, are:
+
+- to promote the science and technology of artificial intelligence in Europe,
+- to promote the establishment of a European computer network,
+- to encourage the teaching of artificial intelligence,
+- to publish a European journal of information on artificial intelligence,
+- to sponsor a biennial conference organized by one or more of the member societies.
+The Association includes a sub-committee responsible, in particular, for coordinating and promoting activities inside the European Community.
+****
+
+https://www.eurai.org
 
 ## 1984- AI Winter 2
 Research that concentrates on developing neural networks is relatively slow. Due to the limitations of processors, neural networks take weeks to learn. Some companies are trying to create what is called a "silicon compiler" to generate a specific type of integrated circuit that is optimized for the application of neural networks. Digital, analog, and optical chips are the different types of chips being developed. One might immediately discount analog signals as a thing of the past. However neurons in the brain actually work more like analog signals than digital signals. While digital signals have two distinct states (1 or 0, on or off), analog signals vary between minimum and maximum values. It may be awhile, though, before optical chips can be used in commercial applications.

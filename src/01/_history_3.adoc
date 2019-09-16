@@ -69,8 +69,17 @@ http://aima.cs.berkeley.edu/adoptions.html
 https://ai.google/research/pubs/pub35179/   
 
 
-## 2009, Google self-driving
+## 2009, Google Self-driving car
 - First Google self-driving car drives on the California freeway.
+- {person} Sebastian Thrun
+
+
+> "The automated cars use video cameras, radar sensors, and a laser range finder to locate everything around them (these are mounted on the roof). And, of course, they use Google’s own maps"
+-- https://techcrunch.com/2010/10/09/google-automated-cars/
+
+[.stretch]
+image::https://techcrunch.com/wp-content/uploads/2010/10/10googlegrfxa-popup.jpeg[]
+
 
 ## 2011, Google Brain
 - deep learning artificial intelligence research team at Google.
@@ -90,7 +99,7 @@ image::2019-09-13-15-45-27.png[]
 ## 2011, ai-class.com
 - Introduction to Artificial Intelligence
 - Stanford
-- Peter Norvig and Sebastian Thrun
+- {person} Peter Norvig and {person} Sebastian Thrun
 - 160,000 students signed up, from more than 190 countries, with a median age of around 30
 - из него появилось Udacity
 
@@ -112,6 +121,7 @@ image::https://cbsnews3.cbsistatic.com/hub/i/r/2011/02/17/c8a7ec73-a642-11e2-a3f
 image::https://miro.medium.com/max/932/1*wzflNwJw9QkjWWvTosXhNw.png[]
 
 ## 2012, AlexNet ImageNet
+[.stretch]
 image::http://www.programmersought.com/images/528/5d6b1e9d70bf0d3b5212353ebd239698.JPEG[]
 
 ## 2013, Word2Vec
@@ -121,6 +131,7 @@ image::http://www.programmersought.com/images/528/5d6b1e9d70bf0d3b5212353ebd2396
 - удачный выбор дефолтный гиперпараметров
 - "семантическая арифметика"
 
+[.stretch]
 image::http://jalammar.github.io/images/word2vec/king-analogy-viz.png[]
 
 ## 2013, DNNresearch was acquired by Google 
@@ -173,6 +184,10 @@ https://en.wikipedia.org/wiki/Future_of_Humanity_Institute
 
 image::https://skymind.ai/images/wiki/GANs.png[]
 
+## 2014, Яндекс.Толока́ 
+[.stretch]
+image::2019-09-16-20-41-05.png[]
+
 ## 2015, The Unreasonable Effectiveness of Recurrent Neural Networks
 - Andrey Karpathy
 - char-based 
@@ -199,6 +214,15 @@ image::https://www.pfmjournal.org/upload/thumbnails/pfm-2018-00030f1.jpg[]
 image::http://ruder.io/content/images/2018/09/attention_bahdanau_iclr2015.png[]
 
 // TODO: добавить
+
+## 2015, Deep Dream
+- Google
+- Inceptionism
+
+image::https://3.bp.blogspot.com/-R15_fyB-ZpE/VYIV-Uu9iwI/AAAAAAAAAl4/o3heQNGpVRU/s1600/Funny-Animals.png[]
+image::https://pbs.twimg.com/media/CKJJ8AlWwAEb1rm.jpg[]
+
+https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html 
 
 ## 2015, Keras
 - François Chollet
@@ -240,7 +264,18 @@ image::2019-09-13-13-49-53.png[]
 https://www.nature.com/articles/nature14539
 
 ## Backpropaganda
-image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[]
+[.lead]
+++++
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What idiot called it &quot;deep learning hype&quot; and not &quot;backpropaganda&quot;</p>&mdash; Naomi Saphra (@nsaphra) <a href="https://twitter.com/nsaphra/status/720614007498006533?ref_src=twsrc%5Etfw">April 14, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+++++
+
+image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[width=1000]
+
+## Deep Learning Mafia
+[.stretch]
+image::2019-09-16-19-18-27.png[]
+https://www.semanticscholar.org/paper/Deep-Learning-LeCun-Bengio/a4cec122a08216fe8a3bc19b22e78fbaea096256
 
 ## 2016 PyTorch
 - Facebook
@@ -248,9 +283,24 @@ image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[]
 
 ## 2016, OpenAI Gym
 
+[cols="50a,50a"]
+|===
+|
+video::https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/CartPole-v1/original.mp4[width=600]
+|
+video::https://gym.openai.com/videos/2019-05-31--eRh4Fbp8G5/SpaceInvaders-v0/original.mp4[width=600]
+|===
+
 ## 2016, Deep Learning Book
+[cols={2col}]
+|===
+|
+image:https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262035613%26type%3D.jpg?itok=opJUfdCT[]
+|
 - Ian Goodfellow and Yoshua Bengio and Aaron Courville
-- https://www.deeplearningbook.org
+- MIT Press
+|===
+https://www.deeplearningbook.org
 
 
 ## 2016, TPU
@@ -260,6 +310,7 @@ image::https://pbs.twimg.com/media/D2u_bMOWkAAWnud.jpg[]
 - 2017 версия 2
 - 2018 версия 3
 
+[.stretch]
 image::https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tensor_Processing_Unit_3.0.jpg/330px-Tensor_Processing_Unit_3.0.jpg[]
 
 ## 2016, AlphaGo
@@ -304,6 +355,7 @@ image:https://3.bp.blogspot.com/-szaDUQXe_ak/WWUJ85ysh5I/AAAAAAAAB3o/joW-ItRpiCU
 - Google
 |===
 
+[.stretch]
 image::https://4.bp.blogspot.com/-9jVHM1Pcsx8/WWUJxfwGTgI/AAAAAAAAB3k/-yLJh8EQQCUXqobeEfob49ekBBjLqQ0JgCLcBGAs/s400/image1.png[]
 ## 2017, ONNX
 - Open Neural Network Exchange
@@ -372,4 +424,4 @@ image::https://images-na.ssl-images-amazon.com/images/I/41r9M-CBgrL._SX329_BO1,2
 image::https://scontent-arn2-1.xx.fbcdn.net/v/t39.2365-6/67064888_389656325232510_2098761968490905600_n.gif?_nc_cat=102&_nc_oc=AQki2YWJ-bQ8oZjZN7-mPmGnm3VKFSHmbN5UQNeFAOs8ba1GKKPpDoinXUAVhgpZOjU&_nc_ht=scontent-arn2-1.xx&oh=61b7d30bfd6100d8e27f506ee6f1b0d7&oe=5DF6123A[]
 
 ## Timeline 1
-image::histoty-fukushima.png[]
+image::history-fukushima.png[]
