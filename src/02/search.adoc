@@ -1,0 +1,16 @@
+# Search
+
+## DFS
+[.stretch]
+image::2019-09-27-17-33-08.png[]
+https://www.youtube.com/watch?v=qt6oMBKRxEU
+
+## BFS
+[.stretch]
+image::2019-09-27-17-33-08.png[]
+https://www.youtube.com/watch?v=ec0IJsiIuWk&t
+
+## Uniform Cost Search
+[.stretch]
+image::2019-09-27-17-34-18.png[]
+https://www.youtube.com/watch?v=Z7_A3Ih-VjY

@@ -1,0 +1,91 @@
+# Примеры
+
+Разделение по областям приблизительное
+
+# Игры
+
+## Шахматы
+[.stretch]
+image::https://hackernoon.com/hn-images/0*uaznJmpQjAAWCXTY.png[]
+https://hackernoon.com/machines-that-play-deep-blue-5a2af4e739f7
+
+## Jeopardy!
+[.stretch]
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DeepQA.svg/1600px-DeepQA.svg.png[]
+
+## Atari
+[.stretch]
+image::https://miro.medium.com/max/1600/1*3ZgGbUpEyAZb9POWijRq4Q.png[]
+
+## Го
+
+## Покер
+
+## StarCraft
+[.stretch]
+image::https://cdn-ak.f.st-hatena.com/images/fotolife/T/TadaoYamaoka/20190804/20190804150322.png[]
+
+## Doom
+[.stretch]
+image::https://adriancolyer.files.wordpress.com/2016/11/fps-fig-2.png[]
+image::https://www.researchgate.net/profile/Ondrej_Miksik/publication/311299501/figure/fig1/AS:434684250333189@1480648210059/System-overview-a-Observing-image-and-depth-from-VizDoom-Running-Faster-RCNN-b-for.png[]
+
+// video::fKHw3wmT_uA[youtube]
+
+
+## !
+[.stretch]
+image::2019-09-27-14-00-23.png[]
+
+# Perception
+
+## Распознавать речь (ASR)
+
+[.stretch]
+image::https://www.degruyter.com/view/j/jisys.ahead-of-print/jisys-2018-0372/graphic/j_jisys-2018-0372_fig_001.jpg[]
+
+## !
+[.stretch]
+image::https://www.researchgate.net/publication/329716031/figure/fig3/AS:731591659753537@1551436452863/The-U-Net-architecture-in-the-example-of-a-2D-cell-segmentation-network-left-Input-An.jpg[]
+
+## !
+[.stretch]
+image::https://miro.medium.com/max/1901/1*d4Eg17IVJ0L41e7CTWLLSg.png[]
+https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
+
+
+# Порождение
+
+## Image captioning
+[.stretch]
+image::https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/Example-of-the-CNN-and-LSTM-Architecture.png[]
+https://machinelearningmastery.com/how-to-caption-photos-with-deep-learning/
+
+## Deep Voice
+[.stretch]
+image::https://miro.medium.com/max/942/1*06JbKxq2eS9G8yO-fhELWg.png[]
+
+
+## GPT-2
+
+[.stretch]
+image::http://jalammar.github.io/images/gpt2/gpt2-weights-2.png[]
+https://talktotransformer.com
+
+## !
+[.stretch]
+image::http://tsong.me/public/img/reading/google-nmt-lstm.png[]
+
+
+## RecSys
+[.stretch]
+image::https://miro.medium.com/max/7936/1*iG7vIW2hp870OQ_W_rEZzg.jpeg[]
+
+
+# Robotics
+
+## Boston Dynamics
+
+## Self-driving
+[.stretch]
+image::https://www.researchgate.net/profile/Luan_Ferreira_Reis_De_Jesus/publication/330383071/figure/fig1/AS:715180870750211@1547523815739/Overview-of-the-typical-hierarchical-architecture-of-self-driving-cars-TSD-denotes.png[]

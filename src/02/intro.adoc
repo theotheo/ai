@@ -1,0 +1,85 @@
+
+## ACM Computing Classification System (2012)
+[.stretch]
+image::2019-09-27-13-39-45.png[]
+https://dl.acm.org/ccs/ccs.cfm?id=10010178&lid=0.10010147.10010178
+
+
+## AMS Mathematics Subject Classification (2000)
+* 68-XX			Computer science For papers involving machine computations and programs in a specific mathematical area, see Section–04 in that area
+** 68Txx		Artificial intelligence
+*** 68T01  	General
+*** 68T05  	Learning and adaptive systems [See also 68Q32, 91E40]
+*** 68T10  	Pattern recognition, speech recognition {For cluster analysis, see 62H30}
+*** 68T15  	Theorem proving (deduction, resolution, etc.) [See also 03B35]
+*** 68T20  	Problem solving (heuristics, search strategies, etc.)
+*** 68T27  	Logic in artificial intelligence
+*** 68T30  	Knowledge representation
+*** 68T35  	Languages and software systems (knowledge-based systems, expert systems, etc.)
+*** 68T37  	Reasoning under uncertainty
+*** 68T40  	Robotics [See also 93C85]
+*** 68T42  	Agent technology
+*** 68T45  	Machine vision and scene understanding
+*** 68T50  	Natural language processing [See also 03B65]
+*** 68T99  	None of the above, but in this section
+
+https://mathscinet.ams.org/mathscinet/msc/msc2010.html?t=68Txx&btn=Current
+
+## !
+
+[.stretch]
+. Knowledge representation and reasoning,
+. Natural language processing,
+. Machine Learning,
+. Planning,
+. Multi-agent systems,
+. Computer vision,
+. Robotics,
+. Philosophical aspects.
+
+[.stretch]
+image::2019-09-27-17-13-28.png[]
+
+## Оптимизация
+Где-то что-то максимизируем/минимизируем
+
+. Поиск: минимизируем путь в графе состояний
+. Поиск маршрута: минимизируем длину маршрута
+. Машинное обучение: минимизируем ошибку
+. Диалоговые системы: максимизируем вовлеченность
+
+## Искусственный интеллект по N&R
+// image::2019-09-27-15-21-24.png[]
+
+[.stretch]
+image::2019-09-27-15-21-38.png[]
+
+## Агент
+- (рациональный) агент
+- восприятие (датчики)
+- окружение (среда)
+- пространство действий
+- техники для выбора действия
+
+image::2019-09-27-15-23-44.png[]
+
+## !
+[.stretch]
+image::2019-09-27-17-20-04.png[]
+
+## Условные разделения
+* Интеллект из вычислений
+** Поиск (в пространстве состояний) / планирование
+** Constraint satisfaction
+** Adversarial 
+
+* Интеллект из данных
+** Байесовские сети (вероятностные графические модели)
+** Машинное обучение
+*** Глубокое обучение
+
+* Приложения
+** Игры (шахматы, ?)
+** Естественный язык (QA, машинный перевод)
+** Компьютерное зрение (детекция, сегментация)
+** Робототехника (??)
